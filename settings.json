@@ -1,13 +1,13 @@
 {
-  "name": "AFK magma",
+  "name": "magmanode",
   "bot-account": {
-    "username": "AFKmagma",
+    "username": "magmanode",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "dynamic-8.magmanode.com",
-    "port": 25840,
+    "ip": "gold.magmanode.com",
+    "port": 30376,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "afk",
+        "alone",
         "hello"
       ]
     },
